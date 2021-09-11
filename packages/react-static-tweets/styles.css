@@ -267,6 +267,7 @@
 
 .static-tweet-twitter-link,
 .static-tweet-twitter-link s {
+  color: var(--tweet-link-color);
   text-decoration: none;
 }
 
