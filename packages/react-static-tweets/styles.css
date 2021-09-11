@@ -281,6 +281,7 @@
   width: 1.2em !important;
   margin: 0 2px;
   vertical-align: -3px;
+  display: inline-block;
 }
 
 .static-tweet-poll {
